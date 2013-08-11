@@ -6,7 +6,7 @@ class passWord {
   * Added: 4.0
   * Description: Version Constant
   **************** */  
-  const VERSION = '4.0';
+  const VERSION = '4.0.1';
   
   /** ****************
   * Added: 4.0
@@ -1670,11 +1670,11 @@ class passWord {
 	  $this->settings(array('numPasswords' => 1));
 
 	  /** generate password */
-	  $pass = $this->genPass();
+	  $this->password = $this->genPass();
 		
 	  /** reset settings back to current NumPasswords */
 	  $this->settings(array('numPasswords' => $curNum));
-      }
+    }
       
 	  /** return password */
 	  return $this->password[0];

@@ -1,0 +1,2 @@
+8/10/13 - Changed version # to 4.0.1
+  Updated 'singlePassword' method - bad code causeing function not to work
