@@ -1,2 +1,4 @@
+8/11/13 - Changed version to 4.0.2
+  Corrected spelling of countries in $phoneticArr property key
 8/10/13 - Changed version # to 4.0.1
   Updated 'singlePassword' method - bad code causeing function not to work
