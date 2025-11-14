@@ -1,1 +1,10 @@
-passWord classFeatures:Generate passwords with custom settings including number of passwords and exact characters availableVersion: 4.0 (yes, I know I skipped 1/2/3, this is because this is the first time I have published changes to git)
+passWord class
+
+Features:
+Generate passwords with custom settings including number of passwords and exact characters available
+
+Version: 5.0
+
+Change Log
+
+5.0 - cleaned up the class by removing the passwords to check and leet features; also added minified version.
